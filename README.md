@@ -12,13 +12,13 @@ Cosas para preparar:
 * Un sentido aventurero en los datos.
 * Un ambiente python 3.6 con anaconda (ver opiones 1 y 2 abajo)
 
-Cada parte del taller sera impartido con [Jupyter](https://jupyter.org/) notebooks que se pueden correr en la nube via colab (opcion 1) o de manera local en tu laptop (opcion 2).
+Cada parte del taller sera impartido con [Jupyter](https://jupyter.org/) notebooks que se pueden correr en la nube vía colab (opcion 1) o de manera local en tu laptop (opcion 2).
 
 
 ## Opcion 1: Colab
 Puedes correr código en la nube usando [colab](https://colab.research.google.com), es Gratis!!
 
-Colab provee ambientes de python 2 y 3, con cpus, aceleradores GPU y TPU. Recomendamos que escojas aceleradores GPU con python 3, es Gratis!! Un screenshot de esta seleccion:
+Colab provee ambientes de python 2 y 3, con cpus, aceleradores GPU y TPU. Recomendamos que escojas aceleradores GPU con python 3, es Gratis!! Un screenshot de esta selección:
 
 ![](media/escoge_acelerador.png)
 
