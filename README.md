@@ -19,7 +19,8 @@ Cada parte del taller sera impartido con [Jupyter](https://jupyter.org/) noteboo
 Puedes correr código en la nube usando [colab](https://colab.research.google.com), es Gratis!!
 
 Colab provee ambientes de python 2 y 3, con cpus, aceleradores GPU y TPU. Recomendamos que escojas aceleradores GPU con python 3, es Gratis!! Un screenshot de esta seleccion:
-[](media/escoger_acelerador.png)
+
+![](media/escoge_acelerador.png)
 
 
 
