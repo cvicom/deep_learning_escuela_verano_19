@@ -16,4 +16,4 @@ dependencies:
 - cudatoolkit
 - cudnn
 - pip:
-  -tf-nightly-gpu
+- tf-nightly-gpu

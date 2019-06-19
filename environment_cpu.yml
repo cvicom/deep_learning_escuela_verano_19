@@ -14,4 +14,4 @@ dependencies:
 - ipykernel
 - tqdm
 - pip:
-  -tf-nightly
+- tf-nightly
