@@ -2,18 +2,18 @@
 Este repositorio contiene el material de los cursos de la *Escuela de verano en aprendizaje profundo*, en la cual se abordarán los fundamentos y arquitecturas más importantes de redes neuronales con prácticas de programación. Puedes descargalo comprimido o clonarlo con [Git](https://git-scm.com/).
 
 ## Requisitos
-La mayoría de las prácticas de los talleres se desarrollarán en Python 3.7 usando la biblioteca [Tensorflow 2.0](https://www.tensorflow.org/), que adopta [Keras](https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/keras) como interfaz de alto nivel para construir y entrenar redes neuronales.
+La mayoría de las prácticas de los talleres se desarrollarán en Python 3.7+ usando la biblioteca [Tensorflow 2.0](https://www.tensorflow.org/), que adopta [Keras](https://www.tensorflow.org/versions/r2.0/api_docs/python/tf/keras) como interfaz de alto nivel para construir y entrenar redes neuronales.
 
 Cosas para preparar
 * Una laptop 
 * Este repositorio de GitHub clonado y actualizado antes del taller
 * Un sentido aventurero en los datos
-* Un ambiente Python 3.6 con Anaconda (ver opciones 1 y 2 abajo)
+* Un ambiente Python 3.7+ con Anaconda (ver opciones 1 y 2 abajo)
 
-Los talleres serán impartidos usando *notebooks*, documentos con código ejecutable, texto, ecuaciones, visualizaciones, etc. Los *notebooks* se pueden crear y ejecutar en la nube via Google Colab (opción 1) o de manera local en tu computadora a través de [Jupyter Notebooks](https://jupyter.org/) (opción 2).
+Los talleres serán impartidos usando *notebooks* de Jupyter, documentos con código ejecutable, texto, ecuaciones, visualizaciones, imágenes y demás material. Los *notebooks* se pueden crear y ejecutar en la nube via Google Colab (opción 1) o de manera local en tu computadora a través de [Jupyter Notebooks](https://jupyter.org/) (opción 2).
 
 ## Opcion 1: Google Colab
-[Colab](https://colab.research.google.com) es un servicio de Google para ejecutar *notebooks* en la nube. Provee ambientes de Python 2 y 3 con CPUs, GPUs y TPUs.  ¡Y es gratis! Solo necesitas tener una cuenta de Google o crear una.
+[Colab](https://colab.research.google.com) es un servicio de Google para ejecutar *notebooks* en la nube. Provee ambientes de Python 2 y 3 con CPUs, GPUs y TPUs. ¡Y es gratis! Solo necesitas tener una cuenta de Google o crear una.
 
 Recomendamos que elijas un ambiente con Python 3 y GPU. Para activarlo:
 * Abre el menú `Entorno de ejecución`
