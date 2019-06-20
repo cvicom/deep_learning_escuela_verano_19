@@ -1,17 +1,17 @@
 name: dl_verano19
 channels:
-- defaults
-- anaconda
-- conda-forge
+   - defaults
+   - anaconda
+   - conda-forge
 dependencies:
-- python>=3.7
-- numpy
-- scipy
-- pandas
-- matplotlib
-- seaborn
-- jupyter
-- ipykernel
-- tqdm
-- pip:
-- tf-nightly
+   - python>=3.7
+   - numpy
+   - scipy
+   - pandas
+   - matplotlib
+   - seaborn
+   - jupyter
+   - ipykernel
+   - tqdm
+   - pip:
+     - tf-nightly-2.0-preview
