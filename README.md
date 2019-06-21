@@ -35,7 +35,7 @@ Para tener la versión de Python 3.7+ y todas las bibliotecas instaladas en cual
 conda env create -n escueladl -f environment_cpu.yml
 ```
 
-Cambia el nombre `escueladl` por tu nombre favorito para el ambiente. Si cuentas con un GPU Nvidia y deseas aprovecharlo cambia el archivo `environment_cpu` a `environment_gpu.yml`.
+Cambia el nombre `escueladl` por tu nombre favorito para el ambiente. Si cuentas con un GPU Nvidia y deseas aprovecharlo cambia el archivo `environment_cpu.yml` a `environment_gpu.yml`.
 
 Para activar el ambiente que creaste, en una terminal ingresa el comando 
 

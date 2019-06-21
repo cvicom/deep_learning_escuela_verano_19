@@ -18,4 +18,4 @@ dependencies:
    - cudatoolkit=10.0
    - cudnn
    - pip:
-     - tf-nightly-gpu-2.0-preview
+     - tensorflow=2.0.0-beta1
