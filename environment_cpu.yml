@@ -16,4 +16,4 @@ dependencies:
    - nltk
    - scikit-learn
    - pip:
-     - tf-nightly-2.0-preview
+     - tensorflow==2.0.0-beta1
