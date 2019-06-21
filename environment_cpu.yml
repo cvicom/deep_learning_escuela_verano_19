@@ -14,6 +14,6 @@ dependencies:
    - ipykernel
    - tqdm
    - nltk
-   - sklearn
+   - scikit-learn
    - pip:
      - tf-nightly-2.0-preview
