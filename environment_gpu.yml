@@ -13,6 +13,8 @@ dependencies:
    - jupyter
    - ipykernel
    - tqdm
+   - nltk
+   - sklearn
    - cudatoolkit
    - cudnn
    - pip:
