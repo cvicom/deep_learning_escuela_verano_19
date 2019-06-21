@@ -14,8 +14,8 @@ dependencies:
    - ipykernel
    - tqdm
    - nltk
-   - sklearn
-   - cudatoolkit
+   - scikit-learn
+   - cudatoolkit=10.0
    - cudnn
    - pip:
      - tf-nightly-gpu-2.0-preview
