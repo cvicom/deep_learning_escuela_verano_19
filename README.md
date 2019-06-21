@@ -35,7 +35,7 @@ Para tener la versión de Python 3.7+ y todas las bibliotecas instaladas en cual
 conda env create -n escueladl -f environment_cpu.yml
 ```
 
-Cambia el nombre `escueladl` por tu nombre favorito para el ambiente. Si cuentas con un GPU Nvidia y deseas aprovecharlo cambia el archivo `environment_cpu` a `environment_gpu.yml`.
+Cambia el nombre `escueladl` por tu nombre favorito para el ambiente. Si cuentas con un GPU Nvidia y deseas aprovecharlo cambia el archivo `environment_cpu.yml` a `environment_gpu.yml`.
 
 Para activar el ambiente que creaste, en una terminal ingresa el comando 
 
@@ -49,12 +49,12 @@ Una vez activado, puedes ejecutar la aplicación de Jupyter Notebook
 jupyter notebook
 ```
 
-Este comando abrirá una ventana como la que se muestra en la siguiente captura de pantalla:
+Este comando abrirá una pestaña o ventana en tu navegador web, como se muestra en la siguiente captura de pantalla:
 
 ![](media/jupyter_notebook.png)
 
-Al igual que en Google Colab, puedes crear un nuevo *notebook* seleccionando el botón `New` y posteriormente `Python 3`. De forma alternativa, puedes abrir uno existente alojado en tu computadora con el botón `Upload` y seleccionando el archivo del *notebook* (con extensión `.ipynb`). 
-
+Al igual que en Google Colab, puedes crear un nuevo *notebook* seleccionando el botón `New` y posteriormente `Python 3`. De forma alternativa, puedes abrir uno existente seleccionando el archivo del *notebook* (con extensión `.ipynb`) dentro del directorio donde ejecutaste Jupyter Notebook. Con el botón `Upload` agregas archivos que se encuentran en otra parte de tu computadora a este directorio. Para cerrar Jupyter Notebook, presiona el botón `Quit` y posteriormente cierra la pestaña o ventada de tu navegador web. 
+ 
 Para desactivar el ambiente `escueladl` de Anaconda simplemente haz
 
 ```
