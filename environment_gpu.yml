@@ -15,6 +15,7 @@ dependencies:
    - tqdm
    - nltk
    - scikit-learn
+   - bayesian-optimization
    - cudatoolkit=10.0
    - cudnn
    - pip:
