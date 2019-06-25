@@ -18,3 +18,4 @@ dependencies:
    - bayesian-optimization
    - pip:
      - tensorflow==2.0.0-beta1
+     - tensorflow_probability
