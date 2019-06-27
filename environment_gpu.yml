@@ -15,7 +15,10 @@ dependencies:
    - tqdm
    - nltk
    - scikit-learn
+   - bayesian-optimization
    - cudatoolkit=10.0
    - cudnn
    - pip:
      - tensorflow==2.0.0-beta1
+     - tensorflow_probability
+     - tensorflow-addons
