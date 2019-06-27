@@ -88,7 +88,7 @@ Si deseas profundizar y continuar practicando, estos son algunos recursos dispon
  * [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
  * [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
  * [https://colah.github.io/posts/2014-10-Visualizing-MNIST/](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
- * [Attention and Augmented Recurrent Neural Networks](Attention and Augmented Recurrent Neural Networks)
+ * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 * [Blog de Andrej Karpathy](http://karpathy.github.io/)
  * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
  * [What a Deep Neural Network thinks about your #selfie](http://karpathy.github.io/2015/10/25/selfie/)
