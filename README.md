@@ -112,4 +112,4 @@ Si deseas profundizar y continuar practicando, estos son algunos recursos dispon
 ### Congresos
 * [International Conference on Representation Learning](http://www.iclr.cc/)                                                                               
 * [Neural Information Processing Systems (NIPS)](http://nips.cc/)                                                                                                  
-* [International Conference on Machine Learning (ICML)](http://www.machinelearning.org/icml.html)                                                                  
+* [International Conference on Machine Learning (ICML)](https://icml.cc/)                                                                  
