@@ -87,7 +87,7 @@ Si deseas profundizar y continuar practicando, estos son algunos recursos dispon
   * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
   * [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
-  * [https://colah.github.io/posts/2014-10-Visualizing-MNIST/](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
+  * [Visualizing MNIST](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
   * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 * [Blog de Andrej Karpathy](http://karpathy.github.io/)
   * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
