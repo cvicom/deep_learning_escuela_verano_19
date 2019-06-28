@@ -60,3 +60,56 @@ Para desactivar el ambiente `escueladl` de Anaconda simplemente haz
 ```
 conda deactivate 
 ```
+
+## Recursos
+Si deseas profundizar y continuar practicando, estos son algunos recursos disponibles en Internet.
+
+### Marcos de trabajo
+* [Tensorflow](https://www.tensorflow.org/)
+* [Pytorch](https://www.pytorch.org/)
+* [Caffee 2](https://caffe2.ai/)
+* [CNTK](https://cntk.ai/pythondocs/) 
+* [Apache MXNet](https://mxnet.apache.org/)
+
+### Conjuntos de datos
+* [Datos del gobierno](http://datos.gob.mx">datos.gob.mx)
+* [Repositorio de UCI](http://archive.ics.uci.edu/ml)
+* [Kaggle](http://www.kaggle.com)
+
+### Libros
+* [Deep Learning](http://www.deeplearningbook.org/) de Ian Goodfellow, Aaron Courille y Yoshua Bengio 
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) de Michael Nielsen 
+* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) de Francois Chollet
+
+
+### Blog *post* y artículos
+* [Blog de Chris Olah](https://colah.github.io/)
+  * [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  * [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+  * [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
+  * [Visualizing MNIST](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
+  * [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
+* [Blog de Andrej Karpathy](http://karpathy.github.io/)
+  * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+  * [What a Deep Neural Network thinks about your #selfie](http://karpathy.github.io/2015/10/25/selfie/)
+  * [Lessons learned from manually classifying CIFAR-10](http://karpathy.github.io/2011/04/27/manually-classifying-cifar10/)
+  * [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
+  * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+  * [Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/)
+* [Blog de Sebastian Ruder](http://ruder.io/)
+  * [Optimization for Deep Learning Highlights in 2017](http://ruder.io/deep-learning-optimization-2017/)
+  * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+* [blog de fast.ai](https://www.fast.ai/)
+  * [AdamW and Super-convergence is now the fastest way to train neural nets](https://www.fast.ai/2018/07/02/adam-weight-decay/)
+* [distill.pub](https://distill.pub/)
+  * [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
+  * [GAN Open Problems](https://distill.pub/2019/gan-open-problems/)
+ 
+### Cursos de en línea
+* [Practical Deep Learning for Coders, v3](https://course.fast.ai/) de fast.ai
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) de Andrew Ng
+
+### Congresos
+* [International Conference on Representation Learning](http://www.iclr.cc/)                                                                               
+* [Neural Information Processing Systems (NIPS)](http://nips.cc/)                                                                                                  
+* [International Conference on Machine Learning (ICML)](https://icml.cc/)                                                                  
