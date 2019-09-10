@@ -68,6 +68,8 @@ conda deactivate
 * [Breast Cancer Histopatology](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
 * [ATLAS Higgs Boson](http://opendata.cern.ch/record/328)
 * [Firmas moleculares](data/zinc_19k_fp.csv)
+* [CONLL 2018](http://universaldependencies.org/conll18/data.html)
+* [ZINC15](https://zinc.docking.org/)
 
 ## Para seguir explorando el aprendizaje profundo
 Si deseas profundizar y continuar practicando, estos son algunos recursos disponibles en Internet.
